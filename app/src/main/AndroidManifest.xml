@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.housekeeperapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/housekeeper"
+        android:label="Housekeeper"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HousekeeperApp">
+        <activity android:name=".FogetPassword"></activity>
+        <activity android:name=".HomeMaidProfile" />
+        <activity android:name=".BookingWaiting" />
+        <activity android:name=".BookingPage" />
+        <activity android:name=".HomeMaidConfirm" />
+        <activity android:name=".HomeUserBooking" />
+        <activity android:name=".HomeUser" />
+        <activity android:name=".HomeUserProfile" />
+        <activity android:name=".HomeMaid" />
+        <activity android:name=".RegiserUserAddress" />
+        <activity android:name=".RegisterMaid" />
+        <activity android:name=".Register" />
+        <activity android:name=".RegisterUser" />
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

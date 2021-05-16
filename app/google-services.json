@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481766005684",
+    "project_id": "housekeeperapp-761cf",
+    "storage_bucket": "housekeeperapp-761cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481766005684:android:efda370aac9e8097ebf0e1",
+        "android_client_info": {
+          "package_name": "com.example.housekeeperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481766005684-ei26a9i4u576nqd2sgqb8unaf39m83sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.housekeeperapp",
+            "certificate_hash": "3f97a80e44c4601ef81da45b467d4adcc5a80a94"
+          }
+        },
+        {
+          "client_id": "481766005684-28eo07ed0i58tgvrgdueeo4tkn6u4f25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MWchLyeVFdMZvdC5MeA16fVKka_YXwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481766005684-28eo07ed0i58tgvrgdueeo4tkn6u4f25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
